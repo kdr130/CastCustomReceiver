@@ -192,6 +192,7 @@ body {
 }
 
 .player .progressBar {
+  display: none;
   background-color: rgb(250, 178, 49);
 }
 
